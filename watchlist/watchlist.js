@@ -11,6 +11,7 @@ $(function() {
   navList.push({title: "Charlie Chaplin", page: 'watchlist4.html'});
   navList.push({title: "War Pictures", page: 'watchlist5.html'});
   navList.push({title: "Others", page: 'watchlist1.html'});
+  navList.push({title: "Home", page: 'index.html'});
   var navs = document.getElementById("navs")
   if (navs) {
     nav_html = '<ul>'
