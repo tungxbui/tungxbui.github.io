@@ -6,11 +6,11 @@ $(function() {
 
   var homePage = window.appConfig.homePage;
   var navList = [];
-  navList.push({title: "Watch List", page: 'watchlist1.html'});
   navList.push({title: "Apple TV", page: 'watchlist2.html'});
   navList.push({title: "Music Video", page: 'watchlist3.html'});
   navList.push({title: "Charlie Chaplin", page: 'watchlist4.html'});
   navList.push({title: "War Pictures", page: 'watchlist5.html'});
+  navList.push({title: "Others", page: 'watchlist1.html'});
   var navs = document.getElementById("navs")
   if (navs) {
     nav_html = '<ul>'
