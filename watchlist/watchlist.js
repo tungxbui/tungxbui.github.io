@@ -3,6 +3,7 @@ $(function() {
   sites.push("amazon")
   sites.push("vudu")
   sites.push("google")
+  sites.push("moviesanywhere")
 
   var homePage = window.appConfig.homePage;
   var navList = [];

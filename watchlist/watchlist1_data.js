@@ -63,7 +63,7 @@
   dataList.push({title: 'Starship Troopers 3: Marauder', refTitle: 'starship-troopers-3-marauder', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:NGbUXS_bOUw?autoplay=1&authuser=0'});
   dataList.push({title: 'Strip Nude for Your Killer', refTitle: 'strip-nude-for-your-killer'});
   dataList.push({title: 'Surf School', refTitle: 'surf-school'});
-  dataList.push({title: 'Swimming Pool', refTitle: 'swimming-pool'});
+  dataList.push({title: 'Swimming Pool', refTitle: 'swimming-pool', titleUrl: 'https://moviesanywhere.com/movie/swimming-pool'});
   dataList.push({title: 'Thirst 2009', refTitle: 'thirst-2009', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:IQyCR1de4xs?autoplay=1&authuser=0'});
   dataList.push({title: 'Under Siege', refTitle: 'under-siege'});
   dataList.push({title: 'The Untamed', refTitle: 'the-untamed'});
