@@ -61,14 +61,14 @@
   dataList.push({title: 'Sorority Row', refTitle: 'sorority-row'});
   dataList.push({title: 'Species', refTitle: 'species-i' });
   dataList.push({title: 'Starship Troopers 3: Marauder', refTitle: 'starship-troopers-3-marauder', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:NGbUXS_bOUw?autoplay=1&authuser=0'});
-  dataList.push({title: 'Strip Nude for Your Killer', refTitle: 'strip-nude-for-your-killer'});
+  dataList.push({title: 'Strip Nude for Your Killer', refTitle: 'strip-nude-for-your-killer', titleUrl: 'https://www.amazon.com/Strip-Nude-Killer-Edwige-Fenech/dp/B077S792VC/ref=sr_1_2?crid=25OD60KZAQ49C&dib=eyJ2IjoiMSJ9.BfNNcWRYuRsgHgtg9X-QrjHUj52jhQXbqDnQNx4IBxxv6dZ63HkUtPl6b1g_l6-NzSQZRBVZLlU6tT9CjJj3jkUlaPVEFQDU5l-zrLuAVbU.5tFQaB7x74j5LSpjy3GdTHXmX4KnCfqNNRSCXljqqbQ&dib_tag=se&keywords=Strip+Nude+for+Your+Killer&qid=1719960506&s=instant-video&sprefix=strip+nude+for+your+killer%2Cinstant-video%2C118&sr=1-2'});
   dataList.push({title: 'Surf School', refTitle: 'surf-school'});
   dataList.push({title: 'Swimming Pool', refTitle: 'swimming-pool', titleUrl: 'https://moviesanywhere.com/movie/swimming-pool'});
   dataList.push({title: 'Thirst 2009', refTitle: 'thirst-2009', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:IQyCR1de4xs?autoplay=1&authuser=0'});
   dataList.push({title: 'Under Siege', refTitle: 'under-siege'});
   dataList.push({title: 'The Untamed', refTitle: 'the-untamed'});
   dataList.push({title: "Who's Your Daddy", refTitle: 'whos-your-daddy'});
-  dataList.push({title: 'Vampyres 2015', refTitle: 'vampyres-2015'});
+  dataList.push({title: 'Vampyres 2015', refTitle: 'vampyres-2015', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:Pe_i7i6VxEI?autoplay=1&authuser=0'});
   dataList.push({title: 'The Yellow Sea', refTitle: 'hwanghae'});
   dataList.push({title: 'Zombeavers', refTitle: 'zombeavers', titleUrl: 'https://www.amazon.com/Zombeavers-Rachael-Melvin/dp/B00UY5SQUW/ref=sr_1_1?crid=39GW5LXM7ZE8A&dib=eyJ2IjoiMSJ9.ZH8a-ZnAWjieBmYraNwDLoMJH8iQc9_90hr6lI-GHW6EitH_MCFmBBE28VAH6LZNI2wSVy5amwxFQmWRsRzaVbA83A6E9HytS9w8JyeRQSoJ4yR-c73qI0YXqeY3cod78T6if1YImtx_1cei-D466AyxXEa9yrmthCGSHvaLO7R6Z6sX_z1XYhrAwQc61x7CQn7bYvqSx6Cs3_hp5HdrNy1s8vSfIDFIJM3v28GA5oU.EBCASDdRRBTi4pzpAZ0hBbC2W3S3oik223-Snia-NZo&dib_tag=se&keywords=Zombeavers&qid=1719813507&s=instant-video&sprefix=zombeavers%2Cinstant-video%2C155&sr=1-1'});
 
