@@ -7,7 +7,7 @@
 
   let dataList = [];
   dataList.push({title: "City Lights", refTitle: 'charlie-chaplin-city-lights'});
-  dataList.push({title: "A Dog's Life", refTitle: 'a-dogs-life'});
+  dataList.push({title: "A Dog's Life", refTitle: 'a-dogs-life', titleUrl: 'https://www.amazon.com/gp/video/detail/B00Y36QRAO/ref=atv_hm_vid_c_B8g7Qw_1_396'});
   dataList.push({title: "The Gold Rush", refTitle: 'the-gold-rush'});
   dataList.push({title: "The Kid", refTitle: 'charlie-chaplin-the-kid'});
   dataList.push({title: "Modern Times", refTitle: 'modern-times'});
