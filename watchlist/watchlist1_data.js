@@ -13,10 +13,11 @@
   dataList.push({title: 'Animal Instincts', refTitle: 'animal-instincts', titleUrl: 'https://www.amazon.com/Animal-Instincts-Jan-Michael-Vincent/dp/B07CNCPF7D/ref=sr_1_1?crid=13P2UA5U0P01Q&keywords=animal+instincts&qid=1662489435&s=instant-video&sprefix=animal+in%2Cinstant-video%2C125&sr=1-1'});
   dataList.push({title: 'Bereavement', refTitle: 'bereavement'});
   dataList.push({title: 'Blame It on Rio', refTitle: 'blame-it-on-rio'});
+  dataList.push({title: 'Candy Stripe Nurses', refTitle: 'candy-stripe-nurses'});
   dataList.push({title: 'Cat People', refTitle: 'cat-people', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:ClOBOox3GOk?autoplay=1&authuser=0'});
   dataList.push({title: 'Cat Run 2', refTitle: 'cat-run-2'});
+  dataList.push({title: 'Career Opportunities', refTitle: 'career-opportunities', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:3CMCD0Db074?autoplay=1&authuser=0'});
   dataList.push({title: 'Chained Heat 2', refTitle: 'chained-heat-2'});
-  dataList.push({title: 'Candy Stripe Nurses', refTitle: 'candy-stripe-nurses'});
   dataList.push({title: 'Coffy', refTitle: 'coffy' });
   dataList.push({title: 'The Canyons', refTitle: 'the-canyons', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:cUumKZI8Vtk?autoplay=1&authuser=0'});
   dataList.push({title: 'Cruel Intentions 2', refTitle: 'cruel-intentions-2', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:ae_gLJ9pkXo?autoplay=1&authuser=0'});
