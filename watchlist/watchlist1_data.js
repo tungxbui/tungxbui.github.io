@@ -14,6 +14,7 @@
   dataList.push({title: 'Bereavement', refTitle: 'bereavement'});
   dataList.push({title: 'Blame It on Rio', refTitle: 'blame-it-on-rio'});
   dataList.push({title: 'Candy Stripe Nurses', refTitle: 'candy-stripe-nurses'});
+  dataList.push({title: 'Kama Sutra: A Tale of Love', refTitle: 'kama-sutra-a-tale-of-love', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:--mEFYzD--8?autoplay=1&authuser=0'});
   dataList.push({title: 'Cat People', refTitle: 'cat-people', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:ClOBOox3GOk?autoplay=1&authuser=0'});
   dataList.push({title: 'Cat Run 2', refTitle: 'cat-run-2'});
   dataList.push({title: 'Career Opportunities', refTitle: 'career-opportunities', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:3CMCD0Db074?autoplay=1&authuser=0'});
