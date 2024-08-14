@@ -25,6 +25,7 @@
   dataList.push({title: 'Delirium: Photo of Gioia', refTitle: 'delirium-photo-of-gioia', titleUrl:'https://www.amazon.com/Delirium/dp/B078WG24KN?SubscriptionId=AKIAIY4YSQJMFDJATNBA&tag=bluray_piv-20&linkCode=xm2'});
   dataList.push({title: 'Dracula 3D', refTitle: 'dracula-3d', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:3I8zAIYHyco?autoplay=1&authuser=0'});
   dataList.push({title: 'Embrace of the Vampire', refTitle: 'embrace-of-the-vampire'});
+  dataList.push({title: 'Fast Times at Ridgemont High', refTitle: 'fast-times-at-ridgemont-high'});
   dataList.push({title: 'Firecracker', refTitle: 'firecracker'});
   dataList.push({title: 'Forbidden World', refTitle: 'forbidden-world'});
   dataList.push({title: 'The Dukes of Hazzard', refTitle: 'the-dukes-of-hazzard'});
