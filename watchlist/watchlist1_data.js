@@ -23,7 +23,7 @@
   dataList.push({title: 'The Canyons', refTitle: 'the-canyons', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:cUumKZI8Vtk?autoplay=1&authuser=0'});
   dataList.push({title: 'Cruel Intentions 2', refTitle: 'cruel-intentions-2', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:ae_gLJ9pkXo?autoplay=1&authuser=0'});
   dataList.push({title: 'Delirium: Photo of Gioia', refTitle: 'delirium-photo-of-gioia', titleUrl:'https://www.amazon.com/Delirium/dp/B078WG24KN?SubscriptionId=AKIAIY4YSQJMFDJATNBA&tag=bluray_piv-20&linkCode=xm2'});
-  dataList.push({title: 'Dracula 3D', refTitle: 'dracula-3d', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:3I8zAIYHyco?autoplay=1&authuser=0'});
+  dataList.push({title: 'Dracula 3D', refTitle: 'dracula-3d', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:3I8zAIYHyco?autoplay=1&authuser=0#0529:3248:5406'});
   dataList.push({title: 'Embrace of the Vampire', refTitle: 'embrace-of-the-vampire'});
   dataList.push({title: 'Fast Times at Ridgemont High', refTitle: 'fast-times-at-ridgemont-high'});
   dataList.push({title: 'Firecracker', refTitle: 'firecracker'});
