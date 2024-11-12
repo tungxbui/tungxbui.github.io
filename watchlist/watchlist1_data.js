@@ -35,7 +35,7 @@
   dataList.push({title: 'Gone by Dawn', refTitle: 'gone-by-dawn'});
   dataList.push({title: 'Hall Pass', refTitle: 'hall-pass'});
   dataList.push({title: 'Hollywood Boulevard', refTitle: 'hollywood-boulevard'});
-  dataList.push({title: 'Hugas', refTitle: 'hugas'});
+  dataList.push({title: 'Hugas', refTitle: 'hugas', titleUrl: 'https://www.amazon.com/gp/video/detail/0TQFID5C3ANKRRNNY6LSPLU9HZ/ref=atv_dl_rdr?tag=justus1ktp-20#3836:5721:11209:11741'});
   dataList.push({title: 'Just One of the Guys', refTitle: 'just-one-of-the-guys', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:XfnXeYQgGg0?autoplay=1&authuser=0'});
   dataList.push({title: 'Karate Kill', refTitle: 'karate-kill', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:eMihH98O8Yw?autoplay=1&authuser=0'});
   dataList.push({title: 'Lake Placid 3', refTitle: 'lake-placid-3', titleUrl: 'https://play.google.com/video/lava/web/player/yt:movie:MkF4BoVX0Go?autoplay=1&authuser=0'});
